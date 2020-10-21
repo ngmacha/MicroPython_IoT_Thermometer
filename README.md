@@ -38,7 +38,7 @@ config.py
 main.py 
 mqtt_as [SOURCE: https://github.com/peterhinch/micropython-mqtt/tree/master/mqtt_as]
 mpu6050 [SOURCE: https://github.com/mytechnotalent/MicroPython_MPU6050]
-ssd1306.py
+ssd1306.py [SOURCE: https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py]
 ssd1306_display_status.py
 test_ssd1306_display_status.py
 ```
