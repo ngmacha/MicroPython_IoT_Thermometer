@@ -45,7 +45,7 @@ test_ssd1306_display_status.py
 
 ## Run Tests in REPL
 ```bash
-import unitest
+import unittest
 unittest.main('test_ssd1306_display_status')
 ```
 
