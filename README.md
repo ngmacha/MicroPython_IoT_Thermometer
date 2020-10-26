@@ -15,6 +15,10 @@ A fun IoT Thermometer which uses an MPU6050 temperature, accelerometer and gyros
 git clone https://github.com/mytechnotalent/MicroPython_IoT_Thermometer.git
 ```
 
+## Adafruit IO Tutorial
+Take a few minutes and read through the Adafruit IO setup to get your device setup and ready.<br>
+[Adafruit IO Tutorial](https://learn.adafruit.com/welcome-to-adafruit-io/what-is-adafruit-io)
+
 ## Setup pyboard.py Utility
 #### SOURCE 
 ```bash
